@@ -29,6 +29,7 @@
         "source": "github",
         "repo": "anthropics/skills"
       },
+      "strict": false,
       "skills": ["./skills/docx/"]
     }
   ]
