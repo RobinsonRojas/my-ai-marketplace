@@ -16,6 +16,7 @@
         "name": "Robinson Arley Rojas Novoa",
         "email": "1robinsonrojas@gmail.com"
       },
+      "source": "./plugins/testing-plugin",
       "version": "1.0.4",
       "strict": false,
       "skills": [
