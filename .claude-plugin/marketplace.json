@@ -18,7 +18,6 @@
       },
       "version": "1.0.4",
       "strict": false,
-
       "skills": [
         "./plugins/testing-plugin/skills/test-automate-cypress-generator"
       ]
