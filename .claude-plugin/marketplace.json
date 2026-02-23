@@ -11,13 +11,15 @@
   "plugins": [
     {
       "name": "testing-plugin",
-      "source": "./plugins/testing-plugin",
       "description": "Colección de herramientas y habilidades para testing",
-      "version": "1.0.2",
       "author": {
         "name": "Robinson Arley Rojas Novoa",
         "email": "1robinsonrojas@gmail.com"
       },
+      "source": "./plugins/testing-plugin",
+      "version": "1.0.3",
+      "strict": false,
+
       "skills": [
         "./plugins/testing-plugin/skills/test-automate-cypress-generator"
       ]
