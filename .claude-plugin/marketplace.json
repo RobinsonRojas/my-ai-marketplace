@@ -19,8 +19,7 @@
         "email": "1robinsonrojas@gmail.com"
       },
       "skills": [
-        "./plugins/testing-plugin/skills/test-automate-cypress-generator",
-        "./plugins/testing-plugin/skills/test-automate-playwright-generator"
+        "./plugins/testing-plugin/skills/test-automate-cypress-generator"
       ]
     },
     {
