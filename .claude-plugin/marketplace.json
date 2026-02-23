@@ -1,0 +1,33 @@
+{
+  "name": "my-ai-marketplace",
+  "owner": {
+    "name": "Robinson Arley Rojas Novoa",
+    "email": "1robinsonrojas@gmail.com"
+  },
+  "metadata": {
+    "description": "My Marketplace de herramientas y habilidades de AI",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "testing-plugin",
+      "source": "./plugins/testing-plugin",
+      "description": "Colección de herramientas y habilidades para testing",
+      "version": "1.0.0",
+      "author": {
+        "name": "Robinson Arley Rojas Novoa",
+        "email": "1robinsonrojas@gmail.com"
+      }
+    },
+    {
+      "name": "template-plugin",
+      "source": "./plugins/template-plugin",
+      "description": "template plugin",
+      "version": "1.0.0",
+      "author": {
+        "name": "Pepito Perez",
+        "email": "pepito.perez@example.com"
+      }
+    }
+  ]
+}
