@@ -25,9 +25,12 @@
     },
     {
       "name": "template-plugin",
-      "source": "./plugins/template-plugin",
+      "source": {
+        "source": "github",
+        "repo": "/anthropics/skills"
+      },
       "description": "template plugin",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "author": {
         "name": "Pepito Perez",
         "email": "pepito.perez@example.com"
