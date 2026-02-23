@@ -27,7 +27,7 @@
       "name": "document-skills",
       "source": {
         "source": "github",
-        "repo": "/anthropics/skills"
+        "repo": "anthropics/skills"
       },
       "skills": ["./skills/docx/"]
     }
