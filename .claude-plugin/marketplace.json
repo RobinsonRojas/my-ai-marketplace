@@ -27,7 +27,8 @@
       "name": "template-plugin",
       "source": {
         "source": "github",
-        "repo": "/anthropics/skills"
+        "repo": "/anthropics/skills",
+        "ref": "latest"
       },
       "description": "template plugin",
       "version": "1.0.1",
