@@ -5,5 +5,5 @@
     "type": "github",
     "repo": "anthropics/skills"
   },
-  "skills": ["./docx/"]
+  "skills": ["./skills/docx/"]
 }
