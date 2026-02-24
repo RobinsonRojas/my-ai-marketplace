@@ -21,8 +21,7 @@
       "source": {
         "source": "github",
         "repo": "RobinsonRojas/my-ai-marketplace",
-        "ref": "dev",
-        "path": "plugins/testing-plugin"
+        "ref": "dev"
       }
     },
     {
