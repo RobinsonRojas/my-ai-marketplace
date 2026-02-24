@@ -20,8 +20,9 @@
       },
       "source": {
         "source": "github",
-        "repo": "RobinsonRojas/my-ai-marketplace:plugins/testing-plugin",
-        "ref": "dev"
+        "repo": "RobinsonRojas/my-ai-marketplace",
+        "ref": "dev",
+        "path": "plugins/testing-plugin"
       }
     },
     {
