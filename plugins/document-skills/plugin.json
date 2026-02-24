@@ -1,9 +1,4 @@
 {
   "name": "document-skills",
-  "description": "Document skills from Anthropic",
-  "source": {
-    "type": "github",
-    "repo": "anthropics/skills"
-  },
-  "skills": ["./skills/docx/"]
+  "description": "Document skills from Anthropic"
 }
