@@ -26,7 +26,7 @@
     {
       "name": "document-skills",
       "description": "Document skills from Anthropic",
-      "source": "https://github.com/anthropics/skills",
+      "source": "https://github.com/anthropics/skills.git",
       "strict": false,
       "skills": ["./skills/pptx/"]
     }
