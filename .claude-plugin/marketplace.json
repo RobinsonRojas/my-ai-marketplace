@@ -18,12 +18,7 @@
         "name": "Robinson Arley Rojas Novoa",
         "email": "1robinsonrojas@gmail.com"
       },
-      "source": {
-        "source": "github",
-        "repo": "RobinsonRojas/my-ai-marketplace",
-        "ref": "dev"
-      },
-      "strict": false
+      "source": "./plugins/testing-plugin"
     },
     {
       "name": "template-plugin",

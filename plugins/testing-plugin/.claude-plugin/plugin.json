@@ -2,8 +2,9 @@
   "name": "testing-plugin",
   "description": "Colección de herramientas y habilidades para testing",
   "version": "1.0.4",
-  "author": {
-    "name": "Robinson Arley Rojas Novoa",
-    "email": "1robinsonrojas@gmail.com"
+  "source": {
+    "source": "github",
+    "repo": "RobinsonRojas/my-ai-marketplace",
+    "ref": "dev"
   }
 }
