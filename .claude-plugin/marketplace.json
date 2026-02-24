@@ -28,7 +28,7 @@
       "description": "Document skills from Anthropic",
       "source": "./plugins/document-skills",
       "strict": false,
-      "skills": ["anthropics/skills/skills/docx/"]
+      "skills": ["anthropics/skills:skills/docx/"]
     }
   ]
 }
