@@ -25,12 +25,9 @@
     },
     {
       "name": "document-skills",
-      "source": {
-        "source": "github",
-        "repo": "anthropics/skills"
-      },
-      "strict": true,
-      "skills": ["./skills/docx/"]
+      "description": "Document skills from Anthropic",
+      "source": "./plugins/document-skills",
+      "strict": true
     }
   ]
 }
