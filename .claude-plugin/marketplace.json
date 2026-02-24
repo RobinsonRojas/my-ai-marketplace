@@ -8,11 +8,7 @@
     "description": "My Marketplace de herramientas y habilidades de AI",
     "version": "1.0.0"
   },
-  "source": {
-    "source": "github",
-    "repo": "RobinsonRojas/my-ai-marketplace",
-    "ref": "dev"
-  },
+
   "plugins": [
     {
       "name": "testing-plugin",
@@ -22,8 +18,11 @@
         "name": "Robinson Arley Rojas Novoa",
         "email": "1robinsonrojas@gmail.com"
       },
-      "source": "github:RobinsonRojas/my-ai-marketplace/plugins/testing-plugin",
-      "ref": "dev"
+      "source": {
+        "source": "github",
+        "repo": "RobinsonRojas/my-ai-marketplace",
+        "ref": "dev"
+      }
     },
     {
       "name": "template-plugin",
