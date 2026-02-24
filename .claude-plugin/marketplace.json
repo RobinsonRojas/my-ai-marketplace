@@ -22,7 +22,7 @@
         "name": "Robinson Arley Rojas Novoa",
         "email": "1robinsonrojas@gmail.com"
       },
-      "source": "./plugins/testing-plugin",
+      "source": "github:RobinsonRojas/my-ai-marketplace/plugins/testing-plugin",
       "ref": "dev"
     },
     {
