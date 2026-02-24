@@ -1,4 +1,5 @@
 {
   "name": "document-skills",
-  "description": "Document skills from Anthropic"
+  "description": "Document skills from Anthropic",
+  "skills": ["github:anthropics/skills/skills/docx/"]
 }
