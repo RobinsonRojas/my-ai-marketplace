@@ -1,0 +1,9 @@
+{
+  "name": "template-plugin",
+  "description": "Colección de herramientas y habilidades para template",
+  "version": "1.0.4",
+  "author": {
+    "name": "Robinson Arley Rojas Novoa",
+    "email": "1robinsonrojas@gmail.com"
+  }
+}
