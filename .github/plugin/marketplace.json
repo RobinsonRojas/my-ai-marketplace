@@ -12,12 +12,12 @@
     {
       "name": "testing-plugin",
       "description": "Colección de herramientas y habilidades para testing",
+      "version": "1.0.4",
       "author": {
         "name": "Robinson Arley Rojas Novoa",
         "email": "1robinsonrojas@gmail.com"
       },
       "source": "./plugins/testing-plugin",
-      "version": "1.0.4",
       "strict": false,
       "skills": [
         "./plugins/testing-plugin/skills/test-automate-cypress-generator"
@@ -28,7 +28,7 @@
       "description": "Document skills from Anthropic",
       "source": "./plugins/document-skills",
       "strict": false,
-      "skills": ["anthropics/skills:./skills/docx/"]
+      "skills": ["./skills/pptx/"]
     }
   ]
 }

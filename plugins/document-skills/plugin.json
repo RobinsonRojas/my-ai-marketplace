@@ -1,5 +1,10 @@
 {
   "name": "document-skills",
   "description": "Document skills from Anthropic",
-  "skills": ["anthropics/skills:./skills/docx/"]
+  "version": "1.0.0",
+  "author": {
+    "name": "Robinson Arley Rojas Novoa"
+  },
+  "repository": "https://github.com/anthropics/skills",
+  "skills": ["./skills/pptx/"]
 }

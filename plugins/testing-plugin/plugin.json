@@ -1,0 +1,10 @@
+{
+  "name": "testing-plugin",
+  "description": "Colección de herramientas y habilidades para testing",
+  "version": "1.0.0",
+  "author": {
+    "name": "Robinson Arley Rojas Novoa"
+  },
+  "repository": "https://github.com/RobinsonRojas/my-ai-marketplace",
+  "skills": ["./skills/testing-plugin/"]
+}
