@@ -22,7 +22,8 @@
         "source": "github",
         "repo": "RobinsonRojas/my-ai-marketplace",
         "ref": "dev"
-      }
+      },
+      "strict": false
     },
     {
       "name": "template-plugin",
