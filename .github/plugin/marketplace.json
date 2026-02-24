@@ -17,18 +17,7 @@
         "name": "Robinson Arley Rojas Novoa",
         "email": "1robinsonrojas@gmail.com"
       },
-      "source": "./plugins/testing-plugin",
-      "strict": false,
-      "skills": [
-        "./plugins/testing-plugin/skills/test-automate-cypress-generator"
-      ]
-    },
-    {
-      "name": "document-skills",
-      "description": "Document skills from Anthropic",
-      "source": "https://github.com/anthropics/skills.git",
-      "strict": false,
-      "skills": ["./skills/pptx/"]
+      "source": "./plugins/testing-plugin"
     }
   ]
 }
