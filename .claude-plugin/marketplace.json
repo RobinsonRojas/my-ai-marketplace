@@ -27,7 +27,8 @@
       "name": "document-skills",
       "description": "Document skills from Anthropic",
       "source": "./plugins/document-skills",
-      "strict": false
+      "strict": false,
+      "skills": ["github:anthropics/skills/skills/docx/"]
     }
   ]
 }
