@@ -1,2 +1,22 @@
-# my-ai-marketplace
-My  AI Marketplace for work
+# ⚡ Instalación Rápida
+
+## Opción 1: Descarga directa (Recomendado)
+
+- **Windows (PowerShell)**
+  1. Abre **PowerShell** (Inicio → escribe “PowerShell” → Enter).
+  2. Descarga el script PowerShell (recomendado):
+
+     ````shell copy
+     curl -O "https://raw.githubusercontent.com/software-one/swo-oneclick-aipluginsmkt/main/OneClick-AIPlugins-marketplace.ps1"
+     ```## ⚡ Instalación Rápida
+     ````
+
+## Opción 2: Descarga directa (Recomendado)
+
+- **Windows (PowerShell)**
+  1. Abre **PowerShell** (Inicio → escribe “PowerShell” → Enter).
+  2. Descarga el script PowerShell (recomendado):
+
+     ```powershell
+     curl -O "https://raw.githubusercontent.com/software-one/swo-oneclick-aipluginsmkt/main/OneClick-AIPlugins-marketplace.sh"
+     ```
